@@ -1,1 +1,1 @@
-create user narender
+CREATE USER airbnb_common IDENTIFIED BY Oraclehome123$;
