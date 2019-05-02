@@ -1,1 +1,1 @@
-create table airbnb
+CREATE USER airbnb_common IDENTIFIED BY Oraclehome123$;
