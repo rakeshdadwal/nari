@@ -1,0 +1,1 @@
+CREATE USER nari IDENTIFIED BY Oraclehome123$;
