@@ -1,1 +1,1 @@
-CREATE USER varun IDENTIFIED BY Oraclehome123$;
+CREATE USER varun12 IDENTIFIED BY Oraclehome123$;
