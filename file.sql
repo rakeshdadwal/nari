@@ -1,5 +1,3 @@
-# This is release 10.2
-! This is wrapper file release
 123.sql
 234.sql
 new/123.sql
